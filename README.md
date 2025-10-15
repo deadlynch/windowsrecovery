@@ -1,6 +1,6 @@
-# recovery.ps1 — Criar Partição de Recuperação no Windows 11
+# Reriar Partição de Recuperação no Windows 11
 
-Este script cria a partição de recuperação do Windows 11 e configura o Windows RE automaticamente.
+Este script recria a partição de recuperação do Windows 11 e configura o Windows RE automaticamente.
 
 ## Requisitos
 
