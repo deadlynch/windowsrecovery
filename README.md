@@ -1,4 +1,4 @@
-# Reriar Partição de Recuperação no Windows 11
+# Recriar Partição de Recuperação no Windows 11
 
 Este script recria a partição de recuperação do Windows 11 e configura o Windows RE automaticamente.
 
